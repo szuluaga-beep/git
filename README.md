@@ -12,3 +12,6 @@ Que el estudiante comprenda el concepto de pila y su estructura, y que sea capaz
 - Steven Zuluaga Cortes
 - Carlos perez
 
+## Screnshot del proyecto
+
+![img.png](img.png)
